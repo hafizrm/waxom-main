@@ -1,0 +1,313 @@
+@media(min-width:992px) and (max-width:1199.89px){
+    .banner-content h1 {
+        font-size: 47px;
+    }
+    .portfoliw-content h3 {
+        font-size: 24px;
+    }
+    .portfoliw-content p {
+        font-size: 17px;
+    }
+    .latest-button button {
+        padding: 10px 12px;
+    }
+}
+/* Medium devices (tablets, less than 992px) */
+@media (min-width:768px) and (max-width:991.98px){
+    /* navbar  */
+     .navbar-toggler i{
+        color: #fff;
+        font-size: 26px;
+    }
+    .navbar-toggler:focus {
+        box-shadow:none;
+    }
+    .navbar {
+        background: #000;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        line-height: 45px;
+        border-bottom: 1px solid rgb(48, 47, 47);
+
+    }
+    /* counter-part */
+    #portfoliw .banner-content-button a {
+        font-size: 14px;
+        padding: 18px 19px;
+    }
+  
+    .portfoliw-content h3 {
+        font-size: 26px;
+    }
+   
+    .mobile-devices-img.text-center {
+        margin-top: 255px;
+    }
+    .mobile-devices-content {
+        padding-top:0px;
+    }
+    .mobile-devices-content-text i {
+        margin-right: 10px;
+    }
+    .mobile-devices-content-text p {
+       line-height: 20px;
+    }
+    #mobile-devices {
+        padding-bottom: 40px;
+    }
+    .mobile-devices-content h3 {
+        font-size: 24px;
+    }
+    .slick-slide img {
+        display: inline-block;
+    }
+ 
+}
+/* Small devices (landscape phones, less than 768px) */
+@media (min-width:576px) and (max-width:767.98px){
+      /* navbar */
+      .navbar-brand img {
+        width: 121px;
+    }
+    .navbar-toggler i{
+        color: #fff;
+        font-size: 26px;
+    }
+    .navbar-toggler:focus {
+        box-shadow:none;
+    }
+    .navbar {
+        background: #000;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        line-height: 35px;
+        border-bottom: 1px solid rgb(48, 47, 47);
+
+    }
+    .counter-content {
+        padding-top: 50px;
+    }
+    #counter {
+        padding-top: 0px;
+    }
+    /* banner */
+    .banner-content h2 {
+        font-size: 22px;
+    }
+    .banner-content h1 {
+        font-size: 43px;
+        line-height: 43px;
+    }
+    .banner-content h1 {
+        padding-bottom: 0px;
+    }
+    .banner-content-button a {
+        padding: 15px 25px;
+    }
+    .banner-content-button {
+        padding-top: 28px;
+    }
+    #banner {
+        height: 80vh;
+    }
+    .banner-content-main {
+        height: 88vh;
+    }
+    .latest-button button {
+        padding: 8px 8px;
+    }
+    /* services */
+    #services {
+        padding-top: 40px;
+        padding-bottom: 45px;
+    }
+    #portfoliw {
+        padding-top: 40px;
+    }
+    .header h3 {
+        font-size: 24px;
+        line-height: 24px;
+    }
+    .portfoliw-content h3 {
+        font-size: 25px;
+        text-align: center;
+    }
+    .portfoliw-content p{
+        line-height: 18px;
+        text-align: center;
+    }
+    .banner-content-button {
+        text-align: center !important;
+    }
+    #latest-project {
+        padding: 40px 0;
+    }
+    #video {
+        padding-top: 78px;
+        padding-bottom: 74px;
+    }
+        /* mobile */
+        #mobile-devices {
+            padding-top: 40px;
+            padding-bottom: 40px;
+        }
+        .mobile-devices-content {
+            padding-top: 49px;
+        }
+        .mobile-devices-content h3 {
+            line-height: 30px;
+        }
+    
+        .mobile-devices-content-text {
+            padding-left: 0px;
+        }
+        .mobile-devices-content-text p {
+            line-height: 20px;
+        }
+        .counter-content-text p::after {
+            display: none;
+       }
+       #counter{
+           padding-top: 40px;
+       }
+       #recent-post {
+        padding: 40px 0;
+    }
+    .recent-post-content h3 {
+        line-height: 24px;
+    }
+    #brand {
+        padding: 70px 0;
+    }
+   #brand .img-fluid {
+        max-width: 59%;
+    }
+    .slick-slide img {
+        display: inline-block;
+    }
+    #footer .img-fluid {
+        max-width: 125%;
+    }
+}
+/* X-Small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    /* navbar */
+    .navbar-brand img {
+        width: 121px;
+    }
+    .navbar-toggler i{
+        color: #fff;
+        font-size: 26px;
+    }
+    .navbar-toggler:focus {
+        box-shadow:none;
+    }
+    .navbar {
+        background: #000;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        line-height: 35px;
+        border-bottom: 1px solid rgb(48, 47, 47);
+
+    }
+    
+    /* banner */
+    .banner-content h2 {
+        font-size: 22px;
+    }
+    .banner-content h1 {
+        font-size: 43px;
+        line-height: 43px;
+    }
+    .banner-content h1 {
+        padding-bottom: 0px;
+    }
+    .banner-content-button a {
+        padding: 15px 25px;
+    }
+    .banner-content-button {
+        padding-top: 28px;
+    }
+    #banner {
+        height: 80vh;
+    }
+    .banner-content-main {
+        height: 88vh;
+    }
+    /* services */
+    #services {
+        padding-top: 40px;
+        padding-bottom: 45px;
+    }
+    /* portfoliw */
+    #portfoliw {
+        padding-top: 40px;
+    }
+    .header h3 {
+        font-size: 24px;
+        line-height: 24px;
+    }
+    .portfoliw-content h3 {
+        line-height: 28px;
+        text-align: center;
+    }
+    .portfoliw-content p{
+        line-height: 18px;
+        text-align: center;
+    }
+    .banner-content-button {
+        text-align: center !important;
+    }
+    /*project*/
+    #latest-project {
+        padding: 40px 0;
+    }
+    .latest-button button {
+        padding: 6px 10px;
+        margin-bottom: 9px;
+    }
+    #video {
+        padding-top: 78px;
+        padding-bottom: 74px;
+    }
+    .videos-content h4 {
+        padding-top: 15px;
+        line-height: 32px;
+    }
+    /* mobile */
+    #mobile-devices {
+        padding-top: 40px;
+    }
+    .mobile-devices-content {
+        padding-top: 49px;
+    }
+    .mobile-devices-content h3 {
+        line-height: 30px;
+    }
+
+    .mobile-devices-content-text {
+        padding-left: 0px;
+    }
+    .mobile-devices-content-text p {
+        line-height: 20px;
+    }
+    #counter {
+        padding-top: 35px;
+        padding-bottom: 35px;
+    }
+    .counter-content-text p::after {
+         display: none;
+    }
+    #recent-post {
+        padding: 40px 0;
+    }
+    #brand {
+        padding: 70px 0;
+    }
+    .slick-slide img {
+        display: inline-block;
+    }
+    #footer {
+        padding: 40px 0;
+    }
+}
